@@ -1,12 +1,41 @@
-- 👋 Hi, I’m Fraz Ali
-- 👀 I’m interested in programming and loves to code.Languages I have grip on are HTML,CSS,C++,python...
-- 🌱 I’m currently learning javascript and Full stack development ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me?.You can reach me at:frazliaqat1116@gmail.com, also at:+92 308 1796116...
-- 😄 Pronouns:Fayuu ...
-- ⚡ Fun fact:Very good in cricket and loves comdedy...
+ Hi, I’m Fraz Ali
+ Passionate Programmer | Aspiring Full-Stack Developer
 
-<!---
-Fraz133/Fraz133 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m deeply interested in building efficient, creative, and user-friendly software solutions.
+Currently, I’m focused on mastering JavaScript and full-stack web development.
+
+ Skills & Technologies
+
+Languages: C++, Python, HTML, CSS, JavaScript (learning)
+
+Interests: Web Development, Problem Solving, Data Structures & Algorithms
+
+Other Skills: Strong teamwork, quick learning, and adaptability
+
+ Current Focus
+
+Enhancing my skills in JavaScript
+
+Learning modern frameworks and backend technologies
+
+Building real-world projects to strengthen my portfolio
+
+
+ Open to Collaborate On
+
+Web development projects
+
+Open-source contributions
+
+Creative coding challenges
+
+
+ How to Reach Me
+
+Email: frazliaqat1116@gmail.com
+
+Phone: +92-308-1796116
+
+ Fun Fact
+
+I’m a cricket enthusiast and love bringing humor into everyday life.
